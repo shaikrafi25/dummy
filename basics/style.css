@@ -1,0 +1,16 @@
+#box{
+    background-color: aliceblue(90,160,94);
+}
+button{
+    background-color: green;
+    color:red(22,27,104);
+}
+*{
+    background-color: aqua;
+}
+#divi{
+    height: 300px;
+    width: 300px;
+    background-color:red;
+    border-radius: 50%;
+}
